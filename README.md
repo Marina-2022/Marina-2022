@@ -2,8 +2,12 @@
 <h3 align="center"> I'm currently looking for a job!</h3>
 
 <h3>About me:</h3>
+<p>I'm Marina</p>
 <p>I'm a junior frontend-developer.</p>
 
+<h3>My education</h3>
+<p>'Hexlet', 2023</p>
+<p>'Baikal State University', 2004-2009</p>
 
 <h3 align="left">Connect with me:</h3> 
 <a href="https://t.me/follow_the_whitish_rabbit">Telegram</a>
