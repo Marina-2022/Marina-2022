@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋 I'm Marina</h1>
+<h3 align="center"> I'm currently looking for a job!</h3>
+
+<h2>About me:</h2>
+<p>I'm a junior frontend-developer.</p>
+
+
+<h3 align="left">Connect with me:</h3> 
+<a href="https://t.me/follow_the_whitish_rabbit">Telegram</a>
+<p align="left">
+</p>
 
 <!--
 **Marina-2022/Marina-2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
